@@ -1,0 +1,6 @@
+{
+  "name": "SKZ Tour Lab: Probabilidade com Duda",
+  "description": "Aprenda probabilidade intuitiva sem poluição: Duda como analista de turnê do Stray Kids resolvendo chuva em estádio, ingressos e armadilhas reais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
